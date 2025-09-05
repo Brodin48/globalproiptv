@@ -66,7 +66,7 @@ export default function Footer() {
             <div className="space-y-3 sm:space-y-4">
               <div className="flex items-center space-x-3">
                 <Phone className="w-4 h-4 sm:w-5 sm:h-5 text-primary-400 flex-shrink-0" />
-                <a href="https://wa.link/854l98" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors text-sm sm:text-base">
+                <a href="https://wa.link/x83rg1" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors text-sm sm:text-base">
                   +1 (323) 704‑4063 <span className="hidden sm:inline">(WhatsApp)</span>
                 </a>
               </div>

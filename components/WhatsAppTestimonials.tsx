@@ -154,7 +154,7 @@ export default function WhatsAppTestimonials() {
               </div>
             </div>
             <a
-              href="https://wa.link/854l98"
+              href="https://wa.link/x83rg1"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-8 rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg inline-flex items-center"

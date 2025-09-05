@@ -130,7 +130,7 @@ export default function LifetimePricing() {
               </div>
 
               <a 
-                href="https://wa.link/0yw033"
+                href="https://wa.link/x83rg1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full cta-primary block text-center py-4 px-6 text-lg mb-4"

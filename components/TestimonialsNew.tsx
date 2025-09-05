@@ -178,7 +178,7 @@ export default function Testimonials() {
               Start your IPTV journey today with our risk-free 30-day guarantee
             </p>
             <a 
-              href="https://wa.link/0yw033"
+              href="https://wa.link/x83rg1"
               target="_blank"
               rel="noopener noreferrer"
               className="cta-primary inline-block"

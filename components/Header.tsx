@@ -55,7 +55,7 @@ export default function Header() {
               
               {/* WhatsApp */}
               <a 
-                href="https://wa.link/0yw033" 
+                href="https://wa.link/x83rg1" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center bg-primary-500/20 text-primary-400 hover:bg-primary-500/30 px-3 py-2 rounded-lg transition-all group"
@@ -68,7 +68,7 @@ export default function Header() {
               
               {/* CTA Button */}
               <a 
-                href="https://wa.link/0yw033" 
+                href="https://wa.link/x83rg1" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="cta-primary"
@@ -81,7 +81,7 @@ export default function Header() {
             <div className="flex md:hidden items-center space-x-2">
               {/* WhatsApp Icon */}
               <a 
-                href="https://wa.link/0yw033" 
+                href="https://wa.link/x83rg1" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-full bg-primary-500 text-black"
@@ -117,7 +117,7 @@ export default function Header() {
                 {/* Contact Info First */}
                 <div className="bg-white/5 rounded-lg p-3 space-y-3">
                   <a 
-                    href="https://wa.link/0yw033" 
+                    href="https://wa.link/x83rg1" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center text-white hover:text-primary-500 transition-colors"

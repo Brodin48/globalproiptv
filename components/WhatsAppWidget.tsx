@@ -16,7 +16,7 @@ export default function WhatsAppWidget() {
   }, [])
 
   const whatsappNumber = "+13237044063"
-  const whatsappLink = "https://wa.link/854l98"
+  const whatsappLink = "https://wa.link/x83rg1"
 
   const openWhatsApp = () => {
     window.open(whatsappLink, '_blank')

@@ -135,7 +135,7 @@ export default function FAQ({
                 Contact Support
               </a>
               <a
-                href="https://wa.link/0yw033"
+                href="https://wa.link/x83rg1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="cta-outline"

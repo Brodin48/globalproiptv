@@ -15,7 +15,7 @@ export default function Pricing() {
           duration: "1 Month", 
           price: "$10.99", 
           originalPrice: "$19.99", 
-          buyLink: "https://wa.link/0yw033", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "45%",
           badge: "SAVE 45%"
         },
@@ -23,7 +23,7 @@ export default function Pricing() {
           duration: "3 Months", 
           price: "$25.99", 
           originalPrice: "$59.97", 
-          buyLink: "https://wa.link/0yw033", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "57%",
           badge: "POPULAR"
         },
@@ -31,7 +31,7 @@ export default function Pricing() {
           duration: "6 Months", 
           price: "$39.99", 
           originalPrice: "$119.94", 
-          buyLink: "https://wa.link/0yw033", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "67%",
           badge: "BEST VALUE"
         },
@@ -39,7 +39,7 @@ export default function Pricing() {
           duration: "12 Months", 
           price: "$49.99", 
           originalPrice: "$139.88", 
-          buyLink: "https://wa.link/0yw033", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "64%",
           badge: "MOST POPULAR"
         },
@@ -47,7 +47,7 @@ export default function Pricing() {
           duration: "24 Months", 
           price: "$89.99", 
           originalPrice: "$279.76", 
-          buyLink: "https://wa.link/0yw033", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "68%",
           badge: "BEST DEAL"
         }
@@ -115,7 +115,7 @@ export default function Pricing() {
           </div>
           <div>
             <a 
-              href="https://wa.link/jpfecl" 
+              href="https://wa.link/z7728f" 
               target="_blank" 
               rel="noopener noreferrer"
               className="cta-primary inline-flex items-center"
@@ -364,7 +364,7 @@ export default function Pricing() {
 
                 <div className="text-center">
                   <a
-                    href="https://wa.link/0yw033"
+                    href="https://wa.link/x83rg1"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`w-full inline-flex items-center justify-center px-6 py-3 rounded-lg font-semibold transition-all duration-300 ${
@@ -439,7 +439,7 @@ export default function Pricing() {
 
                 <div className="text-center">
                   <a
-                    href="https://wa.link/0yw033"
+                    href="https://wa.link/x83rg1"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`w-full inline-flex items-center justify-center px-6 py-3 rounded-lg font-semibold transition-all duration-300 ${

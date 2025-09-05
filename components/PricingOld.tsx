@@ -11,7 +11,7 @@ export default function Pricing() {
           duration: "1 Month", 
           price: "$10.99", 
           originalPrice: "$19.99", 
-          buyLink: "https://wa.link/854l98", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "45%",
           badge: "SAVE 45%"
         },
@@ -19,7 +19,7 @@ export default function Pricing() {
           duration: "3 Months", 
           price: "$25.99", 
           originalPrice: "$59.97", 
-          buyLink: "https://wa.link/854l98", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "57%",
           badge: "POPULAR"
         },
@@ -27,7 +27,7 @@ export default function Pricing() {
           duration: "6 Months", 
           price: "$39.99", 
           originalPrice: "$119.94", 
-          buyLink: "https://wa.link/854l98", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "67%",
           badge: "BEST VALUE"
         },
@@ -35,7 +35,7 @@ export default function Pricing() {
           duration: "12 Months", 
           price: "$49.99", 
           originalPrice: "$139.88", 
-          buyLink: "https://wa.link/854l98", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "64%",
           badge: "BEST VALUE"
         },
@@ -43,7 +43,7 @@ export default function Pricing() {
           duration: "24 Months", 
           price: "$89.99", 
           originalPrice: "$279.76", 
-          buyLink: "https://wa.link/854l98", 
+          buyLink: "https://wa.link/x83rg1", 
           savings: "68%",
           badge: "MAXIMUM SAVINGS"
         }
@@ -74,7 +74,7 @@ export default function Pricing() {
           {/* Free Trial Button */}
           <div className="mt-6">
             <a 
-              href="https://wa.link/854l98" 
+              href="https://wa.link/x83rg1" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
@@ -284,7 +284,7 @@ export default function Pricing() {
 
                   {/* CTA Button */}
                   <a 
-                    href="https://wa.link/854l98" 
+                    href="https://wa.link/x83rg1" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="inline-flex items-center justify-center bg-white text-primary-500 px-6 sm:px-8 py-3 sm:py-4 rounded-xl text-lg sm:text-xl font-black hover:bg-gray-50 transition-all duration-300 transform hover:scale-105 shadow-2xl border-2 border-secondary-200 hover:border-secondary-300 group"

@@ -55,7 +55,7 @@ export default function Hero() {
           
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center mb-8 sm:mb-12 px-4">
             <a 
-              href="https://wa.link/jpfecl" 
+              href="https://wa.link/z7728f" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-gradient-cta text-white px-6 sm:px-8 py-3 sm:py-4 rounded-lg text-base sm:text-lg font-semibold hover:shadow-cta-glow hover:scale-105 transition-all duration-300 flex items-center justify-center backdrop-blur-sm animate-pulse-cta"
