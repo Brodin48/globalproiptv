@@ -173,6 +173,8 @@ module.exports = {
         'bounce-slow': 'bounce 3s infinite',
         'pulse-slow': 'pulse 3s infinite',
         'pulse-cta': 'pulseCTA 2s ease-in-out infinite',
+        'scroll-infinite': 'scrollInfinite 30s linear infinite',
+        'scroll-infinite-reverse': 'scrollInfiniteReverse 30s linear infinite',
       },
       keyframes: {
         fadeIn: {
@@ -194,6 +196,14 @@ module.exports = {
         pulseCTA: {
           '0%, 100%': { boxShadow: '0 0 0 0 rgba(0, 223, 130, 0.4)' },
           '50%': { boxShadow: '0 0 0 10px rgba(0, 223, 130, 0)' },
+        },
+        scrollInfinite: {
+          '0%': { transform: 'translateX(0)' },
+          '100%': { transform: 'translateX(-50%)' },
+        },
+        scrollInfiniteReverse: {
+          '0%': { transform: 'translateX(-50%)' },
+          '100%': { transform: 'translateX(0)' },
         },
       },
       backgroundImage: {
