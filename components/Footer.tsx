@@ -10,14 +10,14 @@ export default function Footer() {
             <div className="flex items-center mb-4 sm:mb-6">
               <img 
                 src="/images/logo.svg" 
-                alt="theiptv Logo" 
+                alt="Global Pro IPTV Logo" 
                 className="w-16 h-16 sm:w-20 sm:h-20 object-contain"
               />
             </div>
               <p className="text-gray-400 mb-4 sm:mb-6 leading-relaxed text-sm sm:text-base">
-              Providing premium <strong>TheIPTV</strong> service since 2019. Our mission is to deliver 
-              the best <strong>TheIPTV</strong> streaming experience with reliable servers and exceptional customer support.
-              <span className="hidden sm:inline"> Get your <strong>TheIPTV</strong> subscription at theiptv.us today.</span>
+              Providing premium <strong>Global Pro IPTV</strong> service since 2019. Our mission is to deliver 
+              the best <strong>Global Pro IPTV</strong> streaming experience with reliable servers and exceptional customer support.
+              <span className="hidden sm:inline"> Get your <strong>Global Pro IPTV</strong> subscription at globalproiptv.com today.</span>
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
@@ -49,13 +49,13 @@ export default function Footer() {
 
           {/* Services */}
           <div>
-            <h4 className="text-lg sm:text-xl font-semibold mb-4 sm:mb-6">TheIPTV Features</h4>
+            <h4 className="text-lg sm:text-xl font-semibold mb-4 sm:mb-6">Global Pro IPTV Features</h4>
             <ul className="space-y-2 sm:space-y-3">
               <li className="text-gray-400 text-sm sm:text-base">25,000+ Live TV Channels</li>
               <li className="text-gray-400 text-sm sm:text-base">26,000+ Movies & TV Shows</li>
               <li className="text-gray-400 text-sm sm:text-base">HD & 4K Streaming Quality</li>
               <li className="text-gray-400 text-sm sm:text-base">All Device Compatibility</li>
-              <li className="text-gray-400 text-sm sm:text-base">24/7 TheIPTV Support</li>
+              <li className="text-gray-400 text-sm sm:text-base">24/7 Global Pro IPTV Support</li>
               <li className="text-gray-400 text-sm sm:text-base">Regular Content Updates</li>
             </ul>
           </div>
@@ -72,8 +72,8 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 sm:w-5 sm:h-5 text-primary-400 flex-shrink-0" />
-                <a href="mailto:contact@theiptv.us" className="text-gray-400 hover:text-white transition-colors text-sm sm:text-base break-all">
-                  contact@theiptv.us
+                <a href="mailto:contact@globalproiptv.com" className="text-gray-400 hover:text-white transition-colors text-sm sm:text-base break-all">
+                  contact@globalproiptv.com
                 </a>
               </div>
               <div className="flex items-center space-x-3">
@@ -91,7 +91,7 @@ export default function Footer() {
         <div className="border-t border-primary-800 mt-8 sm:mt-12 pt-6 sm:pt-8">
           <div className="flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
             <p className="text-gray-400 text-xs sm:text-sm text-center sm:text-left">
-              © 2025 <strong>TheIPTV</strong>. All rights reserved. | Premium TheIPTV Service at theiptv.us
+              © 2025 <strong>Global Pro IPTV</strong>. All rights reserved. | Premium Global Pro IPTV Service at globalproiptv.com
             </p>
             <p className="text-gray-400 text-xs sm:text-sm text-center sm:text-right">
               <span className="hidden sm:inline">Powered by Premium Streaming Technology</span>

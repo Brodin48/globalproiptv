@@ -44,12 +44,12 @@ export default function Hero() {
       <div className="container mx-auto px-4 py-12 sm:py-16 lg:py-20 relative z-20">
         <div className="text-center">
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6 leading-tight">
-            Premium <span className="text-premium-400 drop-shadow-lg">TheIPTV</span> Service
+            Premium <span className="text-primary-500 drop-shadow-lg">Global Pro IPTV</span> Service
           </h1>
           <p className="text-base sm:text-lg md:text-xl lg:text-2xl mb-6 sm:mb-8 max-w-xs sm:max-w-2xl lg:max-w-3xl mx-auto leading-relaxed px-2">
-            Experience the best <strong>TheIPTV</strong> service since 2019! Our premium <strong>TheIPTV subscription</strong>{' '}
-            offers 25,000+ Live TV Channels & 26,000+ Movies/TV Shows. Get instant <strong>TheIPTV access</strong> 
-            <span className="hidden sm:inline"> with HD & 4K quality streaming. Join millions who trust TheIPTV for ultimate entertainment.</span>
+            Experience the best <strong>Global Pro IPTV</strong> service since 2019! Our premium <strong>Global Pro IPTV subscription</strong>{' '}
+            offers 25,000+ Live TV Channels & 26,000+ Movies/TV Shows. Get instant <strong>Global Pro IPTV access</strong> 
+            <span className="hidden sm:inline"> with HD & 4K quality streaming. Join millions who trust Global Pro IPTV for ultimate entertainment.</span>
             <span className="sm:hidden"> - your gateway to unlimited entertainment.</span>
           </p>
           
@@ -74,19 +74,19 @@ export default function Hero() {
           {/* Stats */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6 lg:gap-8 max-w-xs sm:max-w-2xl lg:max-w-4xl mx-auto px-4">
             <div className="text-center bg-black/30 backdrop-blur-sm rounded-lg p-3 sm:p-4">
-              <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-premium-400 mb-1 sm:mb-2">25K+</div>
+              <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-500 mb-1 sm:mb-2">25K+</div>
               <div className="text-xs sm:text-sm lg:text-base">Live TV Channels</div>
             </div>
             <div className="text-center bg-black/30 backdrop-blur-sm rounded-lg p-3 sm:p-4">
-              <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-premium-400 mb-1 sm:mb-2">26K+</div>
+              <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-500 mb-1 sm:mb-2">26K+</div>
               <div className="text-xs sm:text-sm lg:text-base">Movies & TV Shows</div>
             </div>
             <div className="text-center bg-black/30 backdrop-blur-sm rounded-lg p-3 sm:p-4">
-              <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-premium-400 mb-1 sm:mb-2">99.9%</div>
+              <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-500 mb-1 sm:mb-2">99.9%</div>
               <div className="text-xs sm:text-sm lg:text-base">Uptime</div>
             </div>
             <div className="text-center bg-black/30 backdrop-blur-sm rounded-lg p-3 sm:p-4">
-              <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-premium-400 mb-1 sm:mb-2">24/7</div>
+              <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary-500 mb-1 sm:mb-2">24/7</div>
               <div className="text-xs sm:text-sm lg:text-base">Premium Support</div>
             </div>
           </div>
