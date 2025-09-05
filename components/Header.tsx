@@ -65,16 +65,6 @@ export default function Header() {
                 </svg>
                 <span className="text-sm lg:text-base font-bold">WhatsApp</span>
               </a>
-              
-              {/* CTA Button */}
-              <a 
-                href="https://wa.link/x83rg1" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="cta-primary"
-              >
-                Get Started
-              </a>
             </div>
 
             {/* Mobile Contact & Menu Button */}
