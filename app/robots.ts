@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function robots(): MetadataRoute.Robots {
-  const baseUrl = 'https://theiptv.us' // Your actual domain
+  const baseUrl = 'https://globalproiptv.com'
 
   return {
     rules: [
