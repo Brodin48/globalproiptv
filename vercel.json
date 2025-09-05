@@ -1,0 +1,81 @@
+{
+  "buildCommand": "npm run build",
+  "framework": "nextjs",
+  "redirects": [
+    {
+      "source": "/2016/10/aboutiptv.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/2016/10/contact-us.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/2016/10/howiptvworks.html",
+      "destination": "/blog/flix-iptv-complete-guide",
+      "permanent": true
+    },
+    {
+      "source": "/2017/02/de-it-nl-zdf-rai-sky-cinema-sky-select.html",
+      "destination": "/pricing",
+      "permanent": true
+    },
+    {
+      "source": "/2016/12/uk-usa-portugal-spain-m3u-vlc-list-tv.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/2016/10/usaitalynetherlands-m3u-iptv-sports.html",
+      "destination": "/pricing",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/sitemap.xml",
+      "destination": "/sitemap.xml"
+    },
+    {
+      "source": "/sitemap-pages.xml",
+      "destination": "/sitemap-pages.xml"
+    },
+    {
+      "source": "/sitemap-posts.xml", 
+      "destination": "/sitemap-posts.xml"
+    },
+    {
+      "source": "/sitemap_index.xml",
+      "destination": "/sitemap_index.xml"
+    },
+    {
+      "source": "/robots.txt",
+      "destination": "/robots.txt"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options", 
+          "value": "DENY"
+        },
+        {
+          "key": "X-XSS-Protection",
+          "value": "1; mode=block"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Main page images -->
+  <url>
+    <loc>https://sa-iptv.io/</loc>
+    <image:image>
+      <image:loc>https://sa-iptv.io/logo.webp</image:loc>
+      <image:caption>Flex IPTV Logo - Premium SA-IPTV.COM Service</image:caption>
+      <image:title>Flex IPTV Official Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/background.webp</image:loc>
+      <image:caption>SA-IPTV.COM Background Hero Image</image:caption>
+      <image:title>Premium IPTV Streaming Background</image:title>
+    </image:image>
+  </url>
+
+  <!-- Channel logos -->
+  <url>
+    <loc>https://sa-iptv.io/</loc>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/4.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 4 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/5.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 5 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/6.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 6 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/7.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 7 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/8.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 8 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/9.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 9 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/10.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 10 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/11.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 11 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/12.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 12 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/13.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 13 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/14.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 14 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/15.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 15 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/16.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 16 - SA-IPTV.COM</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/logos/17.webp</image:loc>
+      <image:caption>Premium TV Channel Logo 17 - SA-IPTV.COM</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Movie carousel images -->
+  <url>
+    <loc>https://sa-iptv.io/</loc>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/movies%20carousel%20/1.png</image:loc>
+      <image:caption>Movie Poster 1 - SA-IPTV.COM VOD Collection</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/movies%20carousel%20/2.png</image:loc>
+      <image:caption>Movie Poster 2 - SA-IPTV.COM VOD Collection</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/movies%20carousel%20/3.png</image:loc>
+      <image:caption>Movie Poster 3 - SA-IPTV.COM VOD Collection</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/movies%20carousel%20/4.png</image:loc>
+      <image:caption>Movie Poster 4 - SA-IPTV.COM VOD Collection</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/movies%20carousel%20/5.png</image:loc>
+      <image:caption>Movie Poster 5 - SA-IPTV.COM VOD Collection</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/movies%20carousel%20/6.png</image:loc>
+      <image:caption>Movie Poster 6 - SA-IPTV.COM VOD Collection</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/movies%20carousel%20/7.png</image:loc>
+      <image:caption>Movie Poster 7 - SA-IPTV.COM VOD Collection</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sa-iptv.io/images/movies%20carousel%20/8.png</image:loc>
+      <image:caption>Movie Poster 8 - SA-IPTV.COM VOD Collection</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
